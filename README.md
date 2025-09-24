@@ -19,21 +19,6 @@ The site is designed to showcase clothing products while providing a smooth and 
 
 ---
 
-## 📂 Project Structure  
-
-Loom-Luxe/
-│
-├── index.html # Single-page website with all sections
-│
-├── Styles/
-│ └── style.css # Styling, layout, animations, responsive design
-│
-├── Scripts/
-│ └── script.js # Interactive features (menu toggle, filters, carousel)
-│
-└── images/ # Product and design images
-
-
 ---
 
 ## ✨ Features  
