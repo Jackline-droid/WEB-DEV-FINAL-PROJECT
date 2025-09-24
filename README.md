@@ -2,7 +2,7 @@
 _A stylish and modern clothing store website_  
 
 ## 🌐 Live Demo  
-👉 [View Loom & Luxe Online](https://https://web-dev-final-project-bice.vercel.app/)  
+👉 [View Loom & Luxe Online](https://web-dev-final-project-bice.vercel.app/)  
 
 ---
 
